@@ -1,4 +1,2 @@
-echo "# Project Django" > README.md
-git add .
-git commit -m "tambah README"
-git push
+# Project Django
+Proyek Django untuk praktikum LK 4.1.
